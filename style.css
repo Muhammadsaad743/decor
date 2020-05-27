@@ -1,0 +1,155 @@
+.card{
+    background-color: 	#A9A9A9 !important;
+}
+.card-header{
+    font-weight: bold;
+    color: white !important;
+}
+.nav-link{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 11px;
+    justify-content: right !important;
+    padding: 20px;
+    margin-right: 20px;
+}
+.navbar{
+    height: 100px;
+}
+.heading,.write{
+    font-weight: lighter;
+    font-size: larger;
+    font-family: cursive;
+    color: 	#F5F5DC;
+  
+}
+.release{
+    padding: 50px;
+    margin-right: auto;
+}
+.fa-address-book,.fa-user-circle{
+    display: flex;
+    justify-content: flex-end;
+    font-size: 30px !important;
+    padding-left: 1700% !important;
+    margin-top: -90px !important;
+
+}
+h2 {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid rgb(0, 0, 0); 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+    margin-top: 40px;
+    font-weight: bold !important;
+    font-size: 18px !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+ } 
+ 
+ h2 span { 
+     background:#fff; 
+     padding:0 10px; 
+ }
+
+
+
+ .col {
+    position: relative;
+    width: 500px;
+    height: 200px;
+    align-items: initial !important;
+    align-content: initial !important;
+    margin-left: 10px;
+    display: inline-block !important;
+  }
+  
+  .image {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+  }
+  
+  .middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+  .col:hover .image,.col1:hover .image,.col2:hover .image {
+    opacity: 0.3;
+  }
+  
+  .col:hover .middle,.col1:hover .middle,.col2:hover .middle {
+    opacity: 1;
+  }
+  
+  .text {
+    background-color: #EE82EE	;
+    color: white;
+    font-size: 13px;
+    padding: 16px 32px;
+    font-family: serif !important;
+    font-weight: lighter !important;
+    margin-top: 300px;
+    margin-left: 30px;
+   
+  }
+  .col1,.col2{
+      width: 400px;
+      height: 200px;
+      display: inline-block !important;
+      padding: 20px;
+  }
+  .text1{
+    background-color: #EE82EE	;
+    color: white;
+    font-size: 13px;
+    font-family: serif !important;
+    font-weight: lighter !important;
+    margin-top: 940px !important;
+    margin-left: 100px;
+    padding: 16px 12px;
+  }
+
+
+  .text2{
+    background-color: #EE82EE	;
+    color: white;
+    font-size: 11px;
+    font-family: serif !important;
+    font-weight: lighter !important;
+    margin-top: 940px !important;
+    margin-left: 900px;
+    padding: 16px 12px;
+  }
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
